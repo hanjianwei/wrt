@@ -1,0 +1,2 @@
+# wrt
+Openwrt setup scripts

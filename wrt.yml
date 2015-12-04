@@ -1,0 +1,6 @@
+---
+- hosts: wrt
+  gather_facts: no
+  tasks:
+    - name: test
+      raw: echo hello
